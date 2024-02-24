@@ -1,0 +1,315 @@
+{
+  "user": [
+    {
+      "aboutYou": "Odio enim possimus ",
+      "age": 55,
+      "agreetc": true,
+      "dob": "2003-01-01",
+      "email": "admin1@gmail.com",
+      "gender": "Male",
+      "address": {
+        "id": 0,
+        "addLine1": "Optio aut sed sunt ",
+        "addLine2": "Quibusdam autem volu",
+        "city": "Vitae duis nisi ea o",
+        "state": "Up 5",
+        "zipCode": 1422222217
+      },
+      "language": "1 ",
+      "mobNumber": "+1 (863) 663-8989",
+      "name": "Ipsum culpa quo qui",
+      "password": "123456",
+      "uploadPhoto": "https://images.unsplash.com/photo-1554080353-a576cf803bda?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cGhvdG98ZW58MHx8MHx8fDA%3D",
+      "role": "admin",
+      "id": "cac0"
+    },
+    {
+      "id": "62d6",
+      "aboutYou": "Est exercitationem e",
+      "age": 65,
+      "agreetc": true,
+      "dob": "2012-04-13",
+      "email": "seller@gmail.com",
+      "gender": "Male",
+      "address": {
+        "id": 0,
+        "addLine1": "Nisi molestiae culpa",
+        "addLine2": "In nostrud odio temp",
+        "city": "Totam fugit odit of",
+        "state": "Up 7",
+        "zipCode": 38
+      },
+      "language": "3",
+      "mobNumber": "+1 (861) 336-7406",
+      "name": "Ut et atque sed mole",
+      "password": "123456",
+      "uploadPhoto": "https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-1080x675.jpg",
+      "role": "seller"
+    },
+    {
+      "id": "1d65",
+      "aboutYou": "Vel eaque facilis cu",
+      "age": 28,
+      "agreetc": true,
+      "dob": "2009-03-25",
+      "email": "buyer5@gmail.com",
+      "gender": "Male",
+      "address": {
+        "id": 0,
+        "addLine1": "Repellendus Facere ",
+        "addLine2": "Possimus velit sunt",
+        "city": "Velit quidem earum d",
+        "state": "Up 3",
+        "zipCode": 75
+      },
+      "language": "2",
+      "mobNumber": "+1 (538) 443-5045",
+      "name": "Dolor dolor aliquip ",
+      "password": "123456",
+      "uploadPhoto": "https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-1080x675.jpg",
+      "role": "buyer"
+    },
+    {
+      "id": "e2fe",
+      "aboutYou": "Consectetur veniam",
+      "age": 74,
+      "agreetc": true,
+      "dob": "1976-09-05",
+      "email": "admin@gmail.com",
+      "gender": "Female",
+      "address": {
+        "id": 0,
+        "addLine1": "Distinctio Dolor ex",
+        "addLine2": "Non sit et proident",
+        "city": "Impedit animi veri",
+        "state": "Up 4",
+        "zipCode": 5
+      },
+      "language": "2",
+      "mobNumber": "+1 (132) 473-7551",
+      "name": "Dolorum deserunt ess",
+      "password": "123456",
+      "uploadPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlOf-jwier8v7keuhXpFEuD6aC6WCK_hedrg&usqp=CAU",
+      "role": "admin"
+    },
+    {
+      "id": "76bb",
+      "aboutYou": "Voluptatem modi elit",
+      "age": 30,
+      "agreetc": true,
+      "dob": "1981-06-06",
+      "email": "phoophoo@gmail.com",
+      "gender": "Female",
+      "address": {
+        "id": 0,
+        "addLine1": "Neque nisi eveniet ",
+        "addLine2": "Consequuntur et qui ",
+        "city": "Rerum deserunt sed a",
+        "state": "Up 7",
+        "zipCode": 94
+      },
+      "language": "2",
+      "mobNumber": "+1 (531) 331-9479",
+      "name": "Phoo Phoo",
+      "password": "123456",
+      "uploadPhoto": "https://avatars.githubusercontent.com/u/39455646?v=4",
+      "role": "admin"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "title 1",
+      "uploadPhoto": "https://ibb.co/284cG9Z",
+      "productDesc": "Complete security to all of our customers, making our image resizer to 200 x 200 pixels tool dependable and risk-free to use in any situation.",
+      "mrp": "1000",
+      "dp": "520",
+      "status": "publish"
+    },
+    {
+      "id": "2",
+      "name": "title 2",
+      "uploadPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaaewcAbNnMicgaHYzRrQEc9u1tBYK2gQetg&usqp=CAUhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlOf-jwier8v7keuhXpFEuD6aC6WCK_hedrg&usqp=CAU",
+      "productDesc": "You don't need to register or sign in to use the image resizing tool to convert images to 200 x 200 pixels. You don't have to pay to use our image resizer to 200 x 200 pixels tool. You can resize your images to the 200 x 200 pixels as many times as you wish. ",
+      "mrp": "1002",
+      "dp": "500",
+      "status": "publish"
+    },
+    {
+      "id": "3",
+      "name": "title 3",
+      "uploadPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaaewcAbNnMicgaHYzRrQEc9u1tBYK2gQetg&usqp=CAU",
+      "productDesc": "Furthermore, our image resizer to 200 x 200 pixels tool is free of advertisements, resulting in a more pleasant user experience for the end-use",
+      "mrp": "1003",
+      "dp": "501",
+      "status": "publish"
+    },
+    {
+      "id": "4",
+      "name": "title 4",
+      "uploadPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaaewcAbNnMicgaHYzRrQEc9u1tBYK2gQetg&usqp=CAU",
+      "productDesc": "Click on Choose File to upload the image from your device or click on the drop-down button to upload from Dropbox or Google Drive. ",
+      "mrp": "1004",
+      "dp": "502",
+      "status": "publish"
+    },
+    {
+      "id": "5",
+      "name": "title 5",
+      "uploadPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaaewcAbNnMicgaHYzRrQEc9u1tBYK2gQetg&usqp=CAU",
+      "productDesc": "You do not need to download or install any software on your computer or mobile device to use our image resizer to 200 x 200 pixels tool. Our image resizer to 200 x 200 pixels tool is completely web-based, so you may use it at any time. Simply paste our website's URL into your browser and use it as needed. ",
+      "mrp": "1005",
+      "dp": "503",
+      "status": "draft"
+    },
+    {
+      "id": "6",
+      "name": "title 6",
+      "uploadPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaaewcAbNnMicgaHYzRrQEc9u1tBYK2gQetg&usqp=CAU",
+      "productDesc": "Tranform",
+      "mrp": "1006",
+      "dp": "504",
+      "status": "draft"
+    },
+    {
+      "id": "7",
+      "name": "title 7",
+      "uploadPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaaewcAbNnMicgaHYzRrQEc9u1tBYK2gQetg&usqp=CAU",
+      "productDesc": "Tranform",
+      "mrp": "1007",
+      "dp": "505",
+      "status": "publish"
+    },
+    {
+      "id": 0,
+      "name": "Enim incidunt sint",
+      "uploadPhoto": "https://ibb.co/wdJJQgP",
+      "productDesc": "Excepturi rem est i",
+      "mrp": "456",
+      "dp": "456",
+      "status": "inactive"
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "userId": null,
+      "sellerId": "2",
+      "product": {
+        "id": "1",
+        "name": "title 1",
+        "uploadPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaaewcAbNnMicgaHYzRrQEc9u1tBYK2gQetg&usqp=CAU",
+        "productDesc": "Tranform",
+        "mrp": "1000",
+        "dp": "499",
+        "status": "publish"
+      },
+      "deliveryAddress": {
+        "id": "1",
+        "addLine1": "tg",
+        "addLine2": "sg",
+        "city": "sg",
+        "state": "kachin",
+        "zipCode": "110052"
+      },
+      "contact": "",
+      "dateTime": "5-3-2024"
+    },
+    {
+      "id": "0",
+      "userId": "1d65",
+      "sellerId": 2,
+      "ptoduct": {
+        "id": "5",
+        "name": "title 5",
+        "uploadPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaaewcAbNnMicgaHYzRrQEc9u1tBYK2gQetg&usqp=CAU",
+        "productDesc": "You do not need to download or install any software on your computer or mobile device to use our image resizer to 200 x 200 pixels tool. Our image resizer to 200 x 200 pixels tool is completely web-based, so you may use it at any time. Simply paste our website's URL into your browser and use it as needed. ",
+        "mrp": "1005",
+        "dp": "503",
+        "status": "draft"
+      },
+      "deliveryAddress": {
+        "id": 0,
+        "addLine1": "Repellendus Facere ",
+        "addLine2": "Possimus velit sunt",
+        "city": "Velit quidem earum d",
+        "state": "Up 3",
+        "zipCode": 75
+      },
+      "contact": "+1 (538) 443-5045",
+      "dateTime": "2/24/2024"
+    },
+    {
+      "id": 0,
+      "userId": "1d65",
+      "sellerId": 2,
+      "ptoduct": {
+        "id": "4",
+        "name": "title 4",
+        "uploadPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaaewcAbNnMicgaHYzRrQEc9u1tBYK2gQetg&usqp=CAU",
+        "productDesc": "Click on Choose File to upload the image from your device or click on the drop-down button to upload from Dropbox or Google Drive. ",
+        "mrp": "1004",
+        "dp": "502",
+        "status": "publish"
+      },
+      "deliveryAddress": {
+        "id": 0,
+        "addLine1": "Repellendus Facere ",
+        "addLine2": "Possimus velit sunt",
+        "city": "Velit quidem earum d",
+        "state": "Up 3",
+        "zipCode": 75
+      },
+      "contact": "+1 (538) 443-5045",
+      "dateTime": "2/24/2024"
+    },
+    {
+      "id": 0,
+      "userId": "1d65",
+      "sellerId": 2,
+      "ptoduct": {
+        "id": "2",
+        "name": "title 2",
+        "uploadPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaaewcAbNnMicgaHYzRrQEc9u1tBYK2gQetg&usqp=CAUhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlOf-jwier8v7keuhXpFEuD6aC6WCK_hedrg&usqp=CAU",
+        "productDesc": "You don't need to register or sign in to use the image resizing tool to convert images to 200 x 200 pixels. You don't have to pay to use our image resizer to 200 x 200 pixels tool. You can resize your images to the 200 x 200 pixels as many times as you wish. ",
+        "mrp": "1002",
+        "dp": "500",
+        "status": "publish"
+      },
+      "deliveryAddress": {
+        "id": 0,
+        "addLine1": "Repellendus Facere ",
+        "addLine2": "Possimus velit sunt",
+        "city": "Velit quidem earum d",
+        "state": "Up 3",
+        "zipCode": 75
+      },
+      "contact": "+1 (538) 443-5045",
+      "dateTime": "2/25/2024"
+    },
+    {
+      "id": 0,
+      "userId": "1d65",
+      "sellerId": 2,
+      "ptoduct": {
+        "id": "5",
+        "name": "title 5",
+        "uploadPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaaewcAbNnMicgaHYzRrQEc9u1tBYK2gQetg&usqp=CAU",
+        "productDesc": "You do not need to download or install any software on your computer or mobile device to use our image resizer to 200 x 200 pixels tool. Our image resizer to 200 x 200 pixels tool is completely web-based, so you may use it at any time. Simply paste our website's URL into your browser and use it as needed. ",
+        "mrp": "1005",
+        "dp": "503",
+        "status": "draft"
+      },
+      "deliveryAddress": {
+        "id": 0,
+        "addLine1": "Repellendus Facere ",
+        "addLine2": "Possimus velit sunt",
+        "city": "Velit quidem earum d",
+        "state": "Up 3",
+        "zipCode": 75
+      },
+      "contact": "+1 (538) 443-5045",
+      "dateTime": "2/25/2024"
+    }
+  ]
+}
